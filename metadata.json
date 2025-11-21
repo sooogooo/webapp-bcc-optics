@@ -1,0 +1,8 @@
+{
+  "name": "RetroSnap Time Machine | BCC时光机",
+  "description": "仿徕卡版时光拍立得，留驻旧日温柔。快门轻按，笔尖落字，拼贴成册，皆是流年。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
